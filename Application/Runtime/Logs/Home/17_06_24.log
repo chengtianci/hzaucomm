@@ -1,0 +1,36 @@
+[ 2017-06-24T19:10:20+08:00 ] ::1 /hzaucomm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.014220s ]
+
+[ 2017-06-24T19:11:44+08:00 ] ::1 /hzaucomm/Home/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000782s ]
+ERR: 非法操作:main
+
+[ 2017-06-24T19:11:49+08:00 ] ::1 /hzaucomm/Home/user/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+
+[ 2017-06-24T19:12:08+08:00 ] ::1 /hzaucomm/index.php/Home/course/course
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+
+[ 2017-06-24T19:12:16+08:00 ] ::1 /hzaucomm/index.php/Home/comp/comp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000637s ]
+
+[ 2017-06-24T19:12:19+08:00 ] ::1 /hzaucomm/index.php/Home/source/pic_update
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+
+[ 2017-06-24T19:12:34+08:00 ] ::1 /hzaucomm/index.php/Home/index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+

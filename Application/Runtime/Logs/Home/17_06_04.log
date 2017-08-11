@@ -1,0 +1,50 @@
+[ 2017-06-04T11:42:09+08:00 ] ::1 /hzaucomm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.071525s ]
+
+[ 2017-06-04T11:42:46+08:00 ] ::1 /hzaucomm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001039s ]
+
+[ 2017-06-04T12:19:01+08:00 ] ::1 /hzaucomm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000825s ]
+
+[ 2017-06-04T12:22:16+08:00 ] ::1 /hzaucomm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000847s ]
+
+[ 2017-06-04T12:30:14+08:00 ] ::1 /hzaucomm/index.php/Home/course/course.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000897s ]
+
+[ 2017-06-04T12:30:17+08:00 ] ::1 /hzaucomm/index.php/Home/course/course
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000167s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000967s ]
+
+[ 2017-06-04T12:30:18+08:00 ] ::1 /hzaucomm/index.php/Home/source/source.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000121s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001216s ]
+
+[ 2017-06-04T12:30:19+08:00 ] ::1 /hzaucomm/index.php/Home/source/picture.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000814s ]
+
+[ 2017-06-04T12:30:21+08:00 ] ::1 /hzaucomm/index.php/Home/source/pictureshow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000790s ]
+
+[ 2017-06-04T12:30:34+08:00 ] ::1 /hzaucomm/index.php/Home/source/pic_update.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001046s ]
+

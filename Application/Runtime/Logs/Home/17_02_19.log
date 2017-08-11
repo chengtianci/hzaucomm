@@ -1,0 +1,617 @@
+[ 2017-02-19T15:06:51+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.024526s ]
+
+[ 2017-02-19T15:15:09+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+
+[ 2017-02-19T15:18:01+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+
+[ 2017-02-19T15:30:03+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+
+[ 2017-02-19T15:30:19+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+ERR: 非法操作:index
+
+[ 2017-02-19T15:30:38+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+ERR: 非法操作:index
+
+[ 2017-02-19T15:30:39+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+ERR: 非法操作:index
+
+[ 2017-02-19T15:31:29+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000545s ]
+ERR: 非法操作:index
+
+[ 2017-02-19T15:31:30+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+ERR: 非法操作:index
+
+[ 2017-02-19T15:32:26+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000757s ]
+ERR: 非法操作:index
+
+[ 2017-02-19T15:32:29+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+ERR: 非法操作:index
+
+[ 2017-02-19T15:32:31+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000851s ]
+
+[ 2017-02-19T15:32:39+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000640s ]
+
+[ 2017-02-19T15:33:06+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+
+[ 2017-02-19T15:33:11+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile/general_profile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000615s ]
+ERR: 模板不存在:./Application/Home/View/GeneralProfile/general_profile.html
+
+[ 2017-02-19T15:34:05+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile/general_profile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+ERR: 非法操作:general_profile
+
+[ 2017-02-19T15:34:06+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile/general_profile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000798s ]
+ERR: 非法操作:general_profile
+
+[ 2017-02-19T15:34:13+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile/general_profile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+ERR: 非法操作:general_profile
+
+[ 2017-02-19T15:34:13+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile/general_profile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000619s ]
+ERR: 非法操作:general_profile
+
+[ 2017-02-19T15:34:14+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile/general_profile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+ERR: 非法操作:general_profile
+
+[ 2017-02-19T15:34:22+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile/general_profile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+ERR: 非法操作:general_profile
+
+[ 2017-02-19T15:34:24+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000806s ]
+
+[ 2017-02-19T15:34:25+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile/GeneralProfile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+
+[ 2017-02-19T15:34:27+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile/GeneralProfile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+
+[ 2017-02-19T15:34:37+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile/GeneralProfile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+
+[ 2017-02-19T15:35:14+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile/GeneralProfile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+
+[ 2017-02-19T15:35:18+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile/GeneralProfile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+
+[ 2017-02-19T15:35:24+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile/GeneralProfile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+
+[ 2017-02-19T15:35:26+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000866s ]
+ERR: 非法操作:index
+
+[ 2017-02-19T15:35:30+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile/GeneralProfile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000818s ]
+
+[ 2017-02-19T15:35:36+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+
+[ 2017-02-19T15:35:40+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile/GeneralProfile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+
+[ 2017-02-19T15:35:58+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile/GeneralProfile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+
+[ 2017-02-19T15:39:24+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000655s ]
+ERR: 非法操作:index
+
+[ 2017-02-19T15:39:30+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+
+[ 2017-02-19T15:39:31+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+
+[ 2017-02-19T15:39:49+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+
+[ 2017-02-19T15:39:58+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000621s ]
+
+[ 2017-02-19T15:40:17+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001249s ]
+
+[ 2017-02-19T15:40:36+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000736s ]
+
+[ 2017-02-19T15:40:39+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+
+[ 2017-02-19T15:40:54+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+
+[ 2017-02-19T15:41:19+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000936s ]
+
+[ 2017-02-19T15:41:24+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+
+[ 2017-02-19T15:42:46+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000931s ]
+
+[ 2017-02-19T15:51:01+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+
+[ 2017-02-19T15:52:21+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000719s ]
+
+[ 2017-02-19T15:53:24+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000894s ]
+
+[ 2017-02-19T15:53:25+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000708s ]
+
+[ 2017-02-19T15:53:41+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+
+[ 2017-02-19T15:53:47+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001322s ]
+
+[ 2017-02-19T15:54:06+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+
+[ 2017-02-19T15:54:17+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000714s ]
+
+[ 2017-02-19T15:54:29+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000831s ]
+
+[ 2017-02-19T15:54:41+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+
+[ 2017-02-19T15:56:01+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000731s ]
+
+[ 2017-02-19T15:56:05+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile/GeneralProfile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+
+[ 2017-02-19T15:56:22+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile/GeneralProfile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+
+[ 2017-02-19T15:56:37+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile/GeneralProfile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000850s ]
+
+[ 2017-02-19T15:57:03+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile/GeneralProfile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+
+[ 2017-02-19T15:57:05+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile/GeneralProfile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+
+[ 2017-02-19T15:57:06+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile/GeneralProfile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000895s ]
+
+[ 2017-02-19T15:57:07+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile/GeneralProfile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+
+[ 2017-02-19T15:57:13+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile/GeneralProfile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000797s ]
+
+[ 2017-02-19T15:57:16+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile/GeneralProfile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+
+[ 2017-02-19T15:57:25+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile/GeneralProfile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+
+[ 2017-02-19T15:57:26+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile/GeneralProfile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000655s ]
+
+[ 2017-02-19T15:58:50+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile/GeneralProfile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+
+[ 2017-02-19T15:59:41+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+
+[ 2017-02-19T15:59:45+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile/GeneralProfile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000756s ]
+
+[ 2017-02-19T16:00:02+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile/GeneralProfile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+
+[ 2017-02-19T16:00:36+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile/GeneralProfile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+
+[ 2017-02-19T16:00:37+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile/GeneralProfile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+
+[ 2017-02-19T16:01:56+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile/GeneralProfile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+
+[ 2017-02-19T16:02:45+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile/GeneralProfile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+
+[ 2017-02-19T16:03:21+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile/GeneralProfile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000796s ]
+
+[ 2017-02-19T16:03:22+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile/GeneralProfile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000846s ]
+
+[ 2017-02-19T16:03:23+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile/GeneralProfile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+
+[ 2017-02-19T16:03:36+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile/GeneralProfile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000787s ]
+
+[ 2017-02-19T16:03:51+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile/GeneralProfile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+
+[ 2017-02-19T16:04:29+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile/GeneralProfile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+
+[ 2017-02-19T16:04:53+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile/GeneralProfile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+
+[ 2017-02-19T16:05:03+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000812s ]
+ERR: 非法操作:index
+
+[ 2017-02-19T16:05:36+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile/GeneralProfile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+
+[ 2017-02-19T16:05:37+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile/GeneralProfile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+
+[ 2017-02-19T16:05:38+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile/GeneralProfile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+
+[ 2017-02-19T16:05:43+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000132s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002394s ]
+
+[ 2017-02-19T16:07:22+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000729s ]
+
+[ 2017-02-19T16:07:25+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/GeneralProfile/GeneralProfile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+
+[ 2017-02-19T16:07:38+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+
+[ 2017-02-19T16:08:53+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000943s ]
+
+[ 2017-02-19T16:09:28+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001044s ]
+
+[ 2017-02-19T16:16:31+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000621s ]
+
+[ 2017-02-19T16:18:10+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+
+[ 2017-02-19T16:19:01+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000676s ]
+
+[ 2017-02-19T16:19:07+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000681s ]
+
+[ 2017-02-19T16:19:51+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+
+[ 2017-02-19T16:19:52+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+
+[ 2017-02-19T16:26:11+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt2/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+
+[ 2017-02-19T16:29:51+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt2/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000566s ]
+
+[ 2017-02-19T16:37:38+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt2/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000830s ]
+
+[ 2017-02-19T16:37:39+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt2/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+
+[ 2017-02-19T16:37:45+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt2/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+
+[ 2017-02-19T16:38:13+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt2/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+
+[ 2017-02-19T16:38:35+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt2/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+
+[ 2017-02-19T16:38:36+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt2/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000723s ]
+
+[ 2017-02-19T16:42:17+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt2/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+
+[ 2017-02-19T16:42:39+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt2/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.023440s ]
+
+[ 2017-02-19T16:42:51+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt2/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+
+[ 2017-02-19T16:43:34+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt2/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+
+[ 2017-02-19T16:47:32+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt2/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+
+[ 2017-02-19T16:48:32+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt2/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+
+[ 2017-02-19T16:49:08+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt2/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+
+[ 2017-02-19T16:50:43+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt2/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000826s ]
+
+[ 2017-02-19T16:50:56+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt2/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001091s ]
+
+[ 2017-02-19T16:52:21+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt2/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000682s ]
+
+[ 2017-02-19T16:54:20+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt2/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000839s ]
+
+[ 2017-02-19T16:55:48+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt2/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000952s ]
+
+[ 2017-02-19T16:56:11+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt2/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001062s ]
+
+[ 2017-02-19T16:56:12+08:00 ] ::1 /xiangmu/hzaueqt/hzaueqt2/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000630s ]
+

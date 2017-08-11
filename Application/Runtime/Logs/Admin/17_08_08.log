@@ -1,0 +1,5 @@
+[ 2017-08-08T10:19:24+08:00 ] ::1 /hzaucomm/index.php/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.020382s ]
+

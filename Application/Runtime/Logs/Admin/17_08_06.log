@@ -1,0 +1,45 @@
+[ 2017-08-06T14:45:28+08:00 ] ::1 /hzaucomm/index.php/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000902s ]
+
+[ 2017-08-06T14:45:34+08:00 ] ::1 /hzaucomm/index.php/Admin/Course/course
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+
+[ 2017-08-06T14:45:36+08:00 ] ::1 /hzaucomm/index.php/Admin/Course/themeshow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000545s ]
+
+[ 2017-08-06T14:45:41+08:00 ] ::1 /hzaucomm/index.php/Admin/Course/course
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+
+[ 2017-08-06T14:45:43+08:00 ] ::1 /hzaucomm/index.php/Admin/Course/themeshow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000787s ]
+
+[ 2017-08-06T14:45:44+08:00 ] ::1 /hzaucomm/index.php/Admin/Course/commentshow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+
+[ 2017-08-06T14:45:49+08:00 ] ::1 /hzaucomm/index.php/Admin/Source/document
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000714s ]
+
+[ 2017-08-06T14:45:50+08:00 ] ::1 /hzaucomm/index.php/Admin/Source/documentshow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+
+[ 2017-08-06T14:46:48+08:00 ] ::1 /hzaucomm/index.php/Admin/Source/documentshow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000594s ]
+

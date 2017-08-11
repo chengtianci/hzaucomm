@@ -1,0 +1,126 @@
+[ 2017-06-04T11:49:55+08:00 ] ::1 /hzaucomm/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001188s ]
+
+[ 2017-06-04T11:50:32+08:00 ] ::1 /hzaucomm/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001024s ]
+
+[ 2017-06-04T11:52:03+08:00 ] ::1 /hzaucomm/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000839s ]
+
+[ 2017-06-04T11:52:41+08:00 ] ::1 /hzaucomm/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000830s ]
+
+[ 2017-06-04T11:57:13+08:00 ] ::1 /hzaucomm/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000228s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001340s ]
+
+[ 2017-06-04T11:58:16+08:00 ] ::1 /hzaucomm/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+
+[ 2017-06-04T11:59:53+08:00 ] ::1 /hzaucomm/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000904s ]
+
+[ 2017-06-04T12:02:16+08:00 ] ::1 /hzaucomm/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000838s ]
+
+[ 2017-06-04T12:03:17+08:00 ] ::1 /hzaucomm/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000821s ]
+
+[ 2017-06-04T12:05:41+08:00 ] ::1 /hzaucomm/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000912s ]
+
+[ 2017-06-04T12:06:42+08:00 ] ::1 /hzaucomm/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000940s ]
+
+[ 2017-06-04T12:06:43+08:00 ] ::1 /hzaucomm/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000898s ]
+
+[ 2017-06-04T12:10:14+08:00 ] ::1 /hzaucomm/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000888s ]
+
+[ 2017-06-04T12:12:26+08:00 ] ::1 /hzaucomm/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000954s ]
+
+[ 2017-06-04T12:14:51+08:00 ] ::1 /hzaucomm/index.php/Admin/Laboratory/laboratory_show2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001008s ]
+ERR: 无法加载控制器:Laboratory
+
+[ 2017-06-04T12:15:10+08:00 ] ::1 /hzaucomm/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000752s ]
+
+[ 2017-06-04T12:15:45+08:00 ] ::1 /hzaucomm/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000767s ]
+
+[ 2017-06-04T12:16:37+08:00 ] ::1 /hzaucomm/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000773s ]
+
+[ 2017-06-04T12:17:09+08:00 ] ::1 /hzaucomm/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000848s ]
+
+[ 2017-06-04T12:22:18+08:00 ] ::1 /hzaucomm/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000206s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001033s ]
+
+[ 2017-06-04T12:22:37+08:00 ] ::1 /hzaucomm/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000943s ]
+
+[ 2017-06-04T12:24:13+08:00 ] ::1 /hzaucomm/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000828s ]
+
+[ 2017-06-04T12:24:42+08:00 ] ::1 /hzaucomm/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000884s ]
+
+[ 2017-06-04T12:25:11+08:00 ] ::1 /hzaucomm/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000765s ]
+
+[ 2017-06-04T12:25:13+08:00 ] ::1 /hzaucomm/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000762s ]
+

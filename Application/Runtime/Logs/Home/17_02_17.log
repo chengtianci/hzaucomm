@@ -1,0 +1,62 @@
+[ 2017-02-17T15:42:17+08:00 ] ::1 /hzaueqt/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.018675s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.021525s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.021750s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\wamp64\www\hzaueqt\Application\Home\Controller\IndexController.class.php on line 6 and defined D:\wamp64\www\hzaueqt\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\wamp64\www\hzaueqt\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000329s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000587s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.280291s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.280595s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.017446s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.017708s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003859s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004286s ]
+
+[ 2017-02-17T15:43:09+08:00 ] 127.0.0.1 /hzaueqt/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001794s ]
+
+[ 2017-02-17T15:43:22+08:00 ] ::1 /hzaueqt/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000842s ]
+
+[ 2017-02-17T15:43:30+08:00 ] ::1 /hzaueqt/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000749s ]
+
+[ 2017-02-17T15:43:32+08:00 ] ::1 /hzaueqt/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001379s ]
+
+[ 2017-02-17T15:43:34+08:00 ] ::1 /hzaueqt/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000822s ]
+
+[ 2017-02-17T15:43:38+08:00 ] 127.0.0.1 /hzaueqt/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001016s ]
+
+[ 2017-02-17T15:43:39+08:00 ] 127.0.0.1 /hzaueqt/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000792s ]
+
+[ 2017-02-17T20:39:43+08:00 ] ::1 /hzaueqt/hzaueqt/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010346s ]
+

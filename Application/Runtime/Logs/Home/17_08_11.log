@@ -1,0 +1,10 @@
+[ 2017-08-11T08:43:32+08:00 ] ::1 /hzaucomm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004254s ]
+
+[ 2017-08-11T15:23:27+08:00 ] ::1 /hzaucomm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002322s ]
+

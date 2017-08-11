@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+ 	<meta name="viewport" content="width=device-width,user-scalable=yes" />
+ 	<title>实验教学中心互动平台</title>
+	<link rel="stylesheet" href="__PUBLIC__/face/css/public.css"/>
+	<link rel="stylesheet" href="__PUBLIC__/face/css/message.css"/>
+ 
+</head>
+<body>
+	<div id="Cheader">
+		<include file="./Application/Home/View/Index/Public/header.html" />
+	</div>
+
+	<div id="Cnav">
+		<include file="./Application/Home/View/Index/Public/nav.html" />
+	</div>
+
+	<div id="Cmain">
+		<div class="Ccontainer">
+			<div id="main_nav">
+			<section>
+				<h3>个人中心</h3>
+				<ul class="ultop">
+					<li><a href="__APP__/Home/User/index">基本信息</a></li>
+					<li><a href="__APP__/Home/User/application">我的申请</a></li>
+					<li><a href="__APP__/Home/User/message">我的消息</a></li>
+				</ul>
+			</section>
+			</div>
+			<div class="rightc">
+				<div id="topicCon">
+					<div class="mini_nav">
+						<span class="mini_title">我的消息</span>
+					</div>
+					<div class="mesn">
+						<div id="comment">
+							<div class="sigleconmment">
+								<div class="s_m_left">
+									<span class="commentor">评论人</span>
+									<div class="clr"></div>
+									<picture class="replay">回复</picture>
+								</div>
+								<div class="s_m_right">
+								<p class="comment_con">内容克己奉公还u是个好废话use和ifiiu啊是u额发挥啊还是进口的回复给 ua遏房价很高哈手机客户端发给撒额飞机和嘎数据库福嘎搜素的衣服高交会馆啊收到回复吧u呀故事我一个肺结核阿苏对啊是快递发箍牙是的风格卷四地方覅u啊死都反挂闪电分倦色覅</p>
+								<span class="comment_time">2017-05-06</span>
+								</div>
+								<div class="clr"></div>
+							</div>
+							<div class="sigleconmment">
+								<div class="s_m_left">
+									<span class="commentor">评论人</span>
+									<div class="clr"></div>
+									<picture class="replay">回复</picture>
+								</div>
+								<div class="s_m_right">
+								<p class="comment_con">内容克己奉公还u是个好废话use和ifiiu啊是u额发挥啊还是进口的回复给 ua遏房价很高哈手机客户端发给撒额飞机和嘎数据库福嘎搜素的衣服高交会馆啊收到回复吧u呀故事我一个肺结核阿苏对啊是快递发箍牙是的风格卷四地方覅u啊死都反挂闪电分倦色覅</p>
+								<span class="comment_time">2017-05-06</span>
+								</div>
+								<div class="clr"></div>
+							</div>
+							<div class="sigleconmment">
+								<div class="s_m_left">
+									<span class="commentor">评论人</span>
+									<div class="clr"></div>
+									<picture class="replay">回复</picture>
+								</div>
+								<div class="s_m_right">
+								<p class="comment_con">内容克己奉公还u是个好废话use和ifiiu啊是u额发挥啊还是进口的回复给 ua遏房价很高哈手机客户端发给撒额飞机和嘎数据库福嘎搜素的衣服高交会馆啊收到回复吧u呀故事我一个肺结核阿苏对啊是快递发箍牙是的风格卷四地方覅u啊死都反挂闪电分倦色覅</p>
+								<span class="comment_time">2017-05-06</span>
+								</div>
+								<div class="clr"></div>
+							</div>
+							<div class="clr"></div>
+						</div>
+
+					</div>
+				</div>
+			</div>
+
+		</div>
+	
+	</div>
+	<div class="Chidden">
+		<div class="re_frame">
+			<form id="reply_h">
+				<div class="con_input">
+				<textarea id="textarea" class='input' type="text" name="title" placeholder="回复给：XXXXXX"></textarea> 
+				</div>
+				<div class="clr"></div>
+				<div class="con_input"><input id='submit' type="submit" value="回复"></div>
+				<div class="clr"></div>
+
+			</form>
+		</div>
+	</div>
+	<div class="clr"></div>
+	<div id="Cfooter">
+		<include file="./Application/Home/View/Index/Public/footer.html" />
+	</div>
+	<script type="text/javascript" src="__PUBLIC__/face/js/showitem.js"></script>
+	<script type="text/javascript">
+			document.getElementById("submit").onclick = function(){
+				Form.style.display = "none";
+				document.getElementById('Cheader').style.filter = ' ';
+				document.getElementById('Cnav').style.filter    = 'blur(0px) ';
+				document.getElementById('Cmain').style.filter   = 'blur(0px) ';
+				document.getElementById('Cfooter').style.filter = 'blur(0px) ';
+			// $.ajax({  
+   //              type: "POST",  
+   //              url:"__APP__/Home/.......",  
+   //              data:{'username':$("#username").val(),
+   //              	  'password':$("#password").val()},// 序列化表单值  
+   //              async: true,  
+   //              error: function(request) {  
+   //                  alert(request.readyState + ' ' +request.status );  
+   //              },  
+   //              success: function(data) {  
+			// 		if(data['flag'] == 1){
+			// 			window.location.href="__APP__/Home/Index/index";
+			// 		}else {
+   //                  	alert(data['message']);
+			// 		}
+			// 	}  
+   //          }); 
+		}
+		</script>
+</body>
+</html>

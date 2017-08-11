@@ -1,0 +1,925 @@
+[ 2017-05-27T14:32:07+08:00 ] ::1 /hzaucomm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.058573s ]
+
+[ 2017-05-27T14:33:30+08:00 ] ::1 /hzaucomm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000944s ]
+
+[ 2017-05-27T14:34:05+08:00 ] ::1 /hzaucomm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+
+[ 2017-05-27T14:35:52+08:00 ] ::1 /hzaucomm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000874s ]
+
+[ 2017-05-27T14:36:09+08:00 ] ::1 /hzaucomm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+
+[ 2017-05-27T14:36:16+08:00 ] ::1 /hzaucomm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000773s ]
+
+[ 2017-05-27T14:38:12+08:00 ] ::1 /hzaucomm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000949s ]
+
+[ 2017-05-27T14:38:21+08:00 ] ::1 /hzaucomm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000742s ]
+
+[ 2017-05-27T14:38:24+08:00 ] ::1 /hzaucomm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001159s ]
+
+[ 2017-05-27T14:38:38+08:00 ] ::1 /hzaucomm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000787s ]
+
+[ 2017-05-27T14:38:49+08:00 ] ::1 /hzaucomm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000757s ]
+
+[ 2017-05-27T14:38:55+08:00 ] ::1 /hzaucomm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003986s ]
+
+[ 2017-05-27T14:39:10+08:00 ] ::1 /hzaucomm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000932s ]
+
+[ 2017-05-27T14:39:19+08:00 ] ::1 /hzaucomm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000999s ]
+
+[ 2017-05-27T14:39:23+08:00 ] ::1 /hzaucomm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000904s ]
+
+[ 2017-05-27T14:39:28+08:00 ] ::1 /hzaucomm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+
+[ 2017-05-27T14:39:33+08:00 ] ::1 /hzaucomm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000868s ]
+
+[ 2017-05-27T14:40:10+08:00 ] ::1 /hzaucomm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000799s ]
+
+[ 2017-05-27T14:40:30+08:00 ] ::1 /hzaucomm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000959s ]
+
+[ 2017-05-27T14:41:17+08:00 ] ::1 /hzaucomm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000791s ]
+
+[ 2017-05-27T14:41:32+08:00 ] ::1 /hzaucomm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000772s ]
+
+[ 2017-05-27T14:45:04+08:00 ] ::1 /hzaucomm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000876s ]
+
+[ 2017-05-27T14:45:07+08:00 ] ::1 /hzaucomm/index.php/Home/introduction/introduction.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000852s ]
+
+[ 2017-05-27T14:45:10+08:00 ] ::1 /hzaucomm/index.php/Home/introduction/notice.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000899s ]
+
+[ 2017-05-27T14:45:11+08:00 ] ::1 /hzaucomm/index.php/Home/introduction/summary
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000825s ]
+
+[ 2017-05-27T14:45:36+08:00 ] ::1 /hzaucomm/index.php/Home/introduction/summary
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000757s ]
+
+[ 2017-05-27T14:45:37+08:00 ] ::1 /hzaucomm/index.php/Home/introduction/notice.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000849s ]
+
+[ 2017-05-27T14:45:39+08:00 ] ::1 /hzaucomm/index.php/Home/introduction/summary
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000802s ]
+
+[ 2017-05-27T14:45:40+08:00 ] ::1 /hzaucomm/index.php/Home/introduction/introduction.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001079s ]
+
+[ 2017-05-27T14:45:41+08:00 ] ::1 /hzaucomm/index.php/Home/introduction/notice.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000827s ]
+
+[ 2017-05-27T14:45:42+08:00 ] ::1 /hzaucomm/index.php/Home/introduction/summary
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000748s ]
+
+[ 2017-05-27T14:45:43+08:00 ] ::1 /hzaucomm/index.php/Home/introduction/notice.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000799s ]
+
+[ 2017-05-27T14:45:45+08:00 ] ::1 /hzaucomm/index.php/Home/introduction/summary
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000778s ]
+
+[ 2017-05-27T14:46:05+08:00 ] ::1 /hzaucomm/index.php/Home/course/course.html?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000796s ]
+
+[ 2017-05-27T14:46:09+08:00 ] ::1 /hzaucomm/index.php/Home/course/course
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000792s ]
+
+[ 2017-05-27T14:46:10+08:00 ] ::1 /hzaucomm/index.php/Home/course/course
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000801s ]
+
+[ 2017-05-27T14:46:10+08:00 ] ::1 /hzaucomm/index.php/Home/course/course
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000786s ]
+
+[ 2017-05-27T14:46:11+08:00 ] ::1 /hzaucomm/index.php/Home/course/course
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-27T14:46:11+08:00 ] ::1 /hzaucomm/index.php/Home/course/course
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000791s ]
+
+[ 2017-05-27T14:46:17+08:00 ] ::1 /hzaucomm/index.php/Home/course/course.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000751s ]
+
+[ 2017-05-27T14:46:18+08:00 ] ::1 /hzaucomm/index.php/Home/introduction/introduction.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000841s ]
+
+[ 2017-05-27T14:46:19+08:00 ] ::1 /hzaucomm/index.php/Home/course/course.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000904s ]
+
+[ 2017-05-27T14:46:20+08:00 ] ::1 /hzaucomm/index.php/Home/comp/comp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000772s ]
+
+[ 2017-05-27T14:46:21+08:00 ] ::1 /hzaucomm/index.php/Home/course/course.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000889s ]
+
+[ 2017-05-27T14:46:22+08:00 ] ::1 /hzaucomm/index.php/Home/introduction/introduction.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000789s ]
+
+[ 2017-05-27T14:46:23+08:00 ] ::1 /hzaucomm/index.php/Home/course/course.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001130s ]
+
+[ 2017-05-27T14:47:44+08:00 ] ::1 /hzaucomm/index.php/Home/course/showitem.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000821s ]
+
+[ 2017-05-27T14:47:47+08:00 ] ::1 /hzaucomm/index.php/Home/course/showitem.html?title=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000791s ]
+
+[ 2017-05-27T14:47:50+08:00 ] ::1 /hzaucomm/index.php/Home/source/source.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001051s ]
+
+[ 2017-05-27T14:47:54+08:00 ] ::1 /hzaucomm/index.php/Home/source/picture.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000814s ]
+
+[ 2017-05-27T14:47:55+08:00 ] ::1 /hzaucomm/index.php/Home/source/document.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000899s ]
+
+[ 2017-05-27T14:47:56+08:00 ] ::1 /hzaucomm/index.php/Home/source/video.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000141s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002367s ]
+
+[ 2017-05-27T14:47:56+08:00 ] ::1 /hzaucomm/index.php/Home/source/zip.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002546s ]
+
+[ 2017-05-27T14:47:58+08:00 ] ::1 /hzaucomm/index.php/Home/source/video.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000758s ]
+
+[ 2017-05-27T14:47:59+08:00 ] ::1 /hzaucomm/index.php/Home/source/zip.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000947s ]
+
+[ 2017-05-27T14:48:01+08:00 ] ::1 /hzaucomm/index.php/Home/source/document.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000965s ]
+
+[ 2017-05-27T14:48:02+08:00 ] ::1 /hzaucomm/index.php/Home/source/picture.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000807s ]
+
+[ 2017-05-27T14:48:03+08:00 ] ::1 /hzaucomm/index.php/Home/source/pictureshow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000779s ]
+
+[ 2017-05-27T14:48:21+08:00 ] ::1 /hzaucomm/index.php/Home/source/document.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000982s ]
+
+[ 2017-05-27T14:49:14+08:00 ] ::1 /hzaucomm/index.php/Home/source/summary
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001091s ]
+
+[ 2017-05-27T14:49:29+08:00 ] ::1 /hzaucomm/index.php/Home/source/summary
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000269s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002281s ]
+
+[ 2017-05-27T14:49:38+08:00 ] ::1 /hzaucomm/index.php/Home/source/summary
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000816s ]
+
+[ 2017-05-27T14:50:17+08:00 ] ::1 /hzaucomm/index.php/Home/source/summary
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000833s ]
+
+[ 2017-05-27T14:50:48+08:00 ] ::1 /hzaucomm/index.php/Home/source/summary
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000749s ]
+
+[ 2017-05-27T14:51:07+08:00 ] ::1 /hzaucomm/index.php/Home/source/summary
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000742s ]
+
+[ 2017-05-27T14:51:17+08:00 ] ::1 /hzaucomm/index.php/Home/source/summary
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000747s ]
+
+[ 2017-05-27T14:51:18+08:00 ] ::1 /hzaucomm/index.php/Home/source/summary
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002021s ]
+
+[ 2017-05-27T14:51:37+08:00 ] ::1 /hzaucomm/index.php/Home/source/summary
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000762s ]
+
+[ 2017-05-27T14:51:47+08:00 ] ::1 /hzaucomm/index.php/Home/source/summary
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001032s ]
+
+[ 2017-05-27T14:51:50+08:00 ] ::1 /hzaucomm/index.php/Home/source/summary
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000757s ]
+
+[ 2017-05-27T14:52:04+08:00 ] ::1 /hzaucomm/index.php/Home/source/summary
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000796s ]
+
+[ 2017-05-27T14:52:47+08:00 ] ::1 /hzaucomm/index.php/Home/source/summary
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000747s ]
+
+[ 2017-05-27T14:53:04+08:00 ] ::1 /hzaucomm/index.php/Home/source/summary
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000749s ]
+
+[ 2017-05-27T14:53:19+08:00 ] ::1 /hzaucomm/index.php/Home/source/summary
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000834s ]
+
+[ 2017-05-27T14:57:41+08:00 ] ::1 /hzaucomm/index.php/Home/source/document.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000897s ]
+
+[ 2017-05-27T14:57:42+08:00 ] ::1 /hzaucomm/index.php/Home/source/zip.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000818s ]
+
+[ 2017-05-27T14:57:44+08:00 ] ::1 /hzaucomm/index.php/Home/source/summary
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000752s ]
+
+[ 2017-05-27T14:57:46+08:00 ] ::1 /hzaucomm/index.php/Home/source/video.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000986s ]
+
+[ 2017-05-27T14:57:48+08:00 ] ::1 /hzaucomm/index.php/Home/source/picture.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000803s ]
+
+[ 2017-05-27T14:57:49+08:00 ] ::1 /hzaucomm/index.php/Home/source/pictureshow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000895s ]
+
+[ 2017-05-27T14:58:35+08:00 ] ::1 /hzaucomm/index.php/Home/source/pictureshow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000819s ]
+
+[ 2017-05-27T14:58:41+08:00 ] ::1 /hzaucomm/index.php/Home/comp/comp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000824s ]
+
+[ 2017-05-27T15:04:36+08:00 ] ::1 /hzaucomm/index.php/Home/index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000822s ]
+
+[ 2017-05-27T15:04:38+08:00 ] ::1 /hzaucomm/index.php/Home/introduction/introduction.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000748s ]
+
+[ 2017-05-27T15:04:39+08:00 ] ::1 /hzaucomm/index.php/Home/source/source.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001105s ]
+
+[ 2017-05-27T15:04:40+08:00 ] ::1 /hzaucomm/index.php/Home/course/course.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001028s ]
+
+[ 2017-05-27T15:04:40+08:00 ] ::1 /hzaucomm/index.php/Home/source/source.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000769s ]
+
+[ 2017-05-27T15:04:41+08:00 ] ::1 /hzaucomm/index.php/Home/comp/comp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000771s ]
+
+[ 2017-05-27T15:04:42+08:00 ] ::1 /hzaucomm/index.php/Home/source/pic_update.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000736s ]
+
+[ 2017-05-27T15:04:43+08:00 ] ::1 /hzaucomm/index.php/Home/comp/comp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000781s ]
+
+[ 2017-05-27T15:04:43+08:00 ] ::1 /hzaucomm/index.php/Home/source/source.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001272s ]
+
+[ 2017-05-27T15:04:44+08:00 ] ::1 /hzaucomm/index.php/Home/course/course.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001084s ]
+
+[ 2017-05-27T15:04:45+08:00 ] ::1 /hzaucomm/index.php/Home/introduction/introduction.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000766s ]
+
+[ 2017-05-27T15:04:46+08:00 ] ::1 /hzaucomm/index.php/Home/index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000754s ]
+
+[ 2017-05-27T15:13:34+08:00 ] ::1 /hzaucomm/index.php/Home/introduction/introduction.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000843s ]
+
+[ 2017-05-27T15:13:35+08:00 ] ::1 /hzaucomm/index.php/Home/source/source.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000921s ]
+
+[ 2017-05-27T15:13:37+08:00 ] ::1 /hzaucomm/index.php/Home/source/document.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000826s ]
+
+[ 2017-05-27T15:13:39+08:00 ] ::1 /hzaucomm/index.php/Home/source/summary
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000806s ]
+
+[ 2017-05-27T15:13:49+08:00 ] ::1 /hzaucomm/index.php/Home/comp/comp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000748s ]
+
+[ 2017-05-27T15:13:51+08:00 ] ::1 /hzaucomm/index.php/Home/comp/themeluanch
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000780s ]
+
+[ 2017-05-27T15:13:54+08:00 ] ::1 /hzaucomm/index.php/Home/comp/comp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001209s ]
+
+[ 2017-05-27T15:13:55+08:00 ] ::1 /hzaucomm/index.php/Home/source/source.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+
+[ 2017-05-27T15:14:13+08:00 ] ::1 /hzaucomm/index.php/Home/index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000749s ]
+
+[ 2017-05-27T15:18:57+08:00 ] ::1 /hzaucomm/index.php/Home/introduction/introduction.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000830s ]
+
+[ 2017-05-27T15:20:55+08:00 ] ::1 /hzaucomm/index.php/Home/introduction/introduction.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001219s ]
+
+[ 2017-05-27T15:20:55+08:00 ] ::1 /hzaucomm/index.php/Home/course/course.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000769s ]
+
+[ 2017-05-27T15:20:57+08:00 ] ::1 /hzaucomm/index.php/Home/source/source.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000808s ]
+
+[ 2017-05-27T15:25:38+08:00 ] ::1 /hzaucomm/index.php/Home/source/source.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000850s ]
+
+[ 2017-05-27T15:26:08+08:00 ] ::1 /hzaucomm/index.php/Home/source/source.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000820s ]
+
+[ 2017-05-27T15:26:10+08:00 ] ::1 /hzaucomm/index.php/Home/source/document.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000806s ]
+
+[ 2017-05-27T15:26:36+08:00 ] ::1 /hzaucomm/index.php/Home/source/document.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001057s ]
+
+[ 2017-05-27T15:26:49+08:00 ] ::1 /hzaucomm/index.php/Home/source/source.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000815s ]
+
+[ 2017-05-27T15:26:54+08:00 ] ::1 /hzaucomm/index.php/Home/source/source.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000852s ]
+
+[ 2017-05-27T15:27:02+08:00 ] ::1 /hzaucomm/index.php/Home/source/source.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000890s ]
+
+[ 2017-05-27T15:27:13+08:00 ] ::1 /hzaucomm/index.php/Home/source/source.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000831s ]
+
+[ 2017-05-27T15:27:17+08:00 ] ::1 /hzaucomm/index.php/Home/source/source.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000928s ]
+
+[ 2017-05-27T15:35:48+08:00 ] ::1 /hzaucomm/index.php/Home/comp/comp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000834s ]
+
+[ 2017-05-27T15:40:38+08:00 ] ::1 /hzaucomm/index.php/Home/comp/comp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000962s ]
+
+[ 2017-05-27T15:42:10+08:00 ] ::1 /hzaucomm/index.php/Home/index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000853s ]
+
+[ 2017-05-27T15:44:36+08:00 ] ::1 /hzaucomm/index.php/Home/comp/comp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000822s ]
+
+[ 2017-05-27T15:45:25+08:00 ] ::1 /hzaucomm/index.php/Home/comp/comp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001024s ]
+
+[ 2017-05-27T15:48:33+08:00 ] ::1 /hzaucomm/index.php/Home/comp/comp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000821s ]
+
+[ 2017-05-27T15:48:51+08:00 ] ::1 /hzaucomm/index.php/Home/comp/comp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000869s ]
+
+[ 2017-05-27T15:48:52+08:00 ] ::1 /hzaucomm/index.php/Home/comp/comp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000837s ]
+
+[ 2017-05-27T15:48:53+08:00 ] ::1 /hzaucomm/index.php/Home/comp/comp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000803s ]
+
+[ 2017-05-27T15:48:53+08:00 ] ::1 /hzaucomm/index.php/Home/comp/comp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000801s ]
+
+[ 2017-05-27T15:49:24+08:00 ] ::1 /hzaucomm/index.php/Home/comp/comp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000753s ]
+
+[ 2017-05-27T15:52:10+08:00 ] ::1 /hzaucomm/index.php/Home/index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000830s ]
+
+[ 2017-05-27T15:52:30+08:00 ] ::1 /hzaucomm/index.php/Home/index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000991s ]
+
+[ 2017-05-27T15:52:31+08:00 ] ::1 /hzaucomm/index.php/Home/comp/comp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000772s ]
+
+[ 2017-05-27T15:52:38+08:00 ] ::1 /hzaucomm/index.php/Home/source/pic_update.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000780s ]
+
+[ 2017-05-27T15:54:11+08:00 ] ::1 /hzaucomm/index.php/Home/comp/comp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001946s ]
+
+[ 2017-05-27T15:54:18+08:00 ] ::1 /hzaucomm/index.php/Home/source/zip.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000756s ]
+
+[ 2017-05-27T15:54:20+08:00 ] ::1 /hzaucomm/index.php/Home/source/zip.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000800s ]
+
+[ 2017-05-27T15:54:21+08:00 ] ::1 /hzaucomm/index.php/Home/source/summary
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000754s ]
+
+[ 2017-05-27T15:54:23+08:00 ] ::1 /hzaucomm/index.php/Home/source/pic_update.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000789s ]
+
+[ 2017-05-27T15:54:23+08:00 ] ::1 /hzaucomm/index.php/Home/comp/comp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000811s ]
+
+[ 2017-05-27T15:55:50+08:00 ] ::1 /hzaucomm/index.php/Home/comp/comp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000890s ]
+
+[ 2017-05-27T15:56:28+08:00 ] ::1 /hzaucomm/index.php/Home/comp/comp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000888s ]
+
+[ 2017-05-27T15:59:18+08:00 ] ::1 /hzaucomm/index.php/Home/comp/comp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000845s ]
+
+[ 2017-05-27T15:59:28+08:00 ] ::1 /hzaucomm/index.php/Home/course/course.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000829s ]
+
+[ 2017-05-27T15:59:29+08:00 ] ::1 /hzaucomm/index.php/Home/course/course.html?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000767s ]
+
+[ 2017-05-27T16:00:00+08:00 ] ::1 /hzaucomm/index.php/Home/course/course.html?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001847s ]
+
+[ 2017-05-27T16:00:25+08:00 ] ::1 /hzaucomm/index.php/Home/course/course.html?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000793s ]
+
+[ 2017-05-27T16:00:34+08:00 ] ::1 /hzaucomm/index.php/Home/course/course.html?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000757s ]
+
+[ 2017-05-27T16:00:51+08:00 ] ::1 /hzaucomm/index.php/Home/course/course.html?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000832s ]
+
+[ 2017-05-27T16:01:30+08:00 ] ::1 /hzaucomm/index.php/Home/course/course.html?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000244s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002004s ]
+
+[ 2017-05-27T16:01:34+08:00 ] ::1 /hzaucomm/index.php/Home/comp/comp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000852s ]
+
+[ 2017-05-27T16:01:35+08:00 ] ::1 /hzaucomm/index.php/Home/course/course.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001219s ]
+
+[ 2017-05-27T16:01:43+08:00 ] ::1 /hzaucomm/index.php/Home/course/course.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000803s ]
+
+[ 2017-05-27T16:01:49+08:00 ] ::1 /hzaucomm/index.php/Home/course/course.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000807s ]
+
+[ 2017-05-27T16:02:50+08:00 ] ::1 /hzaucomm/index.php/Home/course/course.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000843s ]
+
+[ 2017-05-27T16:02:51+08:00 ] ::1 /hzaucomm/index.php/Home/course/course.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000933s ]
+
+[ 2017-05-27T16:02:57+08:00 ] ::1 /hzaucomm/index.php/Home/comp/comp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000861s ]
+
+[ 2017-05-27T16:02:58+08:00 ] ::1 /hzaucomm/index.php/Home/comp/comp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000756s ]
+
+[ 2017-05-27T16:02:59+08:00 ] ::1 /hzaucomm/index.php/Home/comp/comp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000872s ]
+
+[ 2017-05-27T16:03:31+08:00 ] ::1 /hzaucomm/index.php/Home/comp/comp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001536s ]
+
+[ 2017-05-27T16:03:36+08:00 ] ::1 /hzaucomm/index.php/Home/course/course.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000856s ]
+
+[ 2017-05-27T16:04:03+08:00 ] ::1 /hzaucomm/index.php/Home/course/course.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000851s ]
+
+[ 2017-05-27T16:04:45+08:00 ] ::1 /hzaucomm/index.php/Home/source/source.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000824s ]
+
+[ 2017-05-27T16:04:46+08:00 ] ::1 /hzaucomm/index.php/Home/source/document.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000803s ]
+
+[ 2017-05-27T16:04:48+08:00 ] ::1 /hzaucomm/index.php/Home/source/video.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000914s ]
+
+[ 2017-05-27T16:04:48+08:00 ] ::1 /hzaucomm/index.php/Home/source/zip.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002974s ]
+
+[ 2017-05-27T16:06:08+08:00 ] ::1 /hzaucomm/index.php/Home/source/source.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000833s ]
+
+[ 2017-05-27T16:06:09+08:00 ] ::1 /hzaucomm/index.php/Home/source/video.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000939s ]
+
+[ 2017-05-27T16:06:10+08:00 ] ::1 /hzaucomm/index.php/Home/source/document.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002611s ]
+
+[ 2017-05-27T16:07:16+08:00 ] ::1 /hzaucomm/index.php/Home/index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000820s ]
+
+[ 2017-05-27T16:07:17+08:00 ] ::1 /hzaucomm/index.php/Home/introduction/introduction.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000764s ]
+
+[ 2017-05-27T16:07:17+08:00 ] ::1 /hzaucomm/index.php/Home/course/course.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000750s ]
+
+[ 2017-05-27T16:07:18+08:00 ] ::1 /hzaucomm/index.php/Home/source/source.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000792s ]
+
+[ 2017-05-27T16:07:19+08:00 ] ::1 /hzaucomm/index.php/Home/comp/comp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000930s ]
+
+[ 2017-05-27T16:07:20+08:00 ] ::1 /hzaucomm/index.php/Home/source/source.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000819s ]
+
+[ 2017-05-27T16:07:25+08:00 ] ::1 /hzaucomm/index.php/Home/course/course.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001159s ]
+
+[ 2017-05-27T16:36:40+08:00 ] ::1 /hzaucomm/index.php/Home/index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000108s ]
+INFO: [ app_init ] --END-- [ RunTime:0.069737s ]
+
+[ 2017-05-27T16:36:45+08:00 ] ::1 /hzaucomm/index.php/Home/introduction/introduction.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000905s ]
+
+[ 2017-05-27T16:36:46+08:00 ] ::1 /hzaucomm/index.php/Home/course/course.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002716s ]
+
+[ 2017-05-27T16:36:47+08:00 ] ::1 /hzaucomm/index.php/Home/source/source.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001058s ]
+
+[ 2017-05-27T16:36:48+08:00 ] ::1 /hzaucomm/index.php/Home/comp/comp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001063s ]
+
+[ 2017-05-27T16:36:49+08:00 ] ::1 /hzaucomm/index.php/Home/source/pic_update.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000780s ]
+
+[ 2017-05-27T16:46:45+08:00 ] ::1 /hzaucomm/index.php/Home/index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000857s ]
+
+[ 2017-05-27T16:46:48+08:00 ] ::1 /hzaucomm/index.php/Home/course/course.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000771s ]
+
+[ 2017-05-27T16:46:52+08:00 ] ::1 /hzaucomm/index.php/Home/source/picture.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000760s ]
+
+[ 2017-05-27T16:46:56+08:00 ] ::1 /hzaucomm/index.php/Home/comp/comp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000760s ]
+
+[ 2017-05-27T16:46:58+08:00 ] ::1 /hzaucomm/index.php/Home/source/pic_update.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000782s ]
+
+[ 2017-05-27T16:47:00+08:00 ] ::1 /hzaucomm/index.php/Home/index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000768s ]
+

@@ -1,0 +1,15 @@
+[ 2017-06-24T19:14:45+08:00 ] ::1 /hzaucomm/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000748s ]
+
+[ 2017-06-24T19:14:50+08:00 ] ::1 /hzaucomm/index.php/Admin/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+
+[ 2017-06-24T19:14:54+08:00 ] ::1 /hzaucomm/index.php/Admin/User/authority
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+

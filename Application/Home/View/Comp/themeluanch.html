@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+ 	
+ 	<meta name="viewport" content="width=device-width,user-scalable=yes" />
+ 	<title>实验教学中心互动平台</title>
+	<link rel="stylesheet" href="__PUBLIC__/face/css/public.css"/>
+	<link rel="stylesheet" href="__PUBLIC__/face/css/themeluanch.css"/>
+
+</head>
+<body>
+	<div id="Cheader">
+		<include file="./Application/Home/View/Index/public/header.html" />
+	</div>
+
+	<div id="Cnav">
+		<include file="./Application/Home/View/Index/public/nav.html" />
+	</div>
+
+	<div id="Cmain">
+		<div class="Ccontainer">
+			<div id="main_nav">
+				<section>
+					<h3>学科交流</h3>
+					<ul class="ultop">
+						<li><a href="__APP__/Home/comp/comp">热门主题</a></li>
+						<li><a href="__APP__/Home/comp/comp">最近主题</a></li>
+						<li><a href="__APP__/Home/comp/comp">关注主题</a></li>
+					</ul>
+				</section>
+			</div>
+			<div class="rightc">
+				<div id="topicCon">
+					<div class="mini_nav">
+						<span class="mini_title">课程发布</span>
+					</div>
+					<div class="luanch">
+						<div class="form">
+							<!-- <div class="con_input"><sapn class="hint">类别：</sapn>
+							<select style="height: 35px;width: 120px;margin-top: 8px;">
+								<option value="">实践实习类</option>
+								<option value="">专业基础类</option>
+								<option value="">作物生产类</option>
+								<option value="">植物保护类</option>
+								<option value="">创新实验课程</option>	
+							</select></div><div class="clr"></div> -->
+							<div class="con_input"><sapn class="hint">标题：</sapn><input class='input' type="text" name="descripe"></div><div class="clr"></div>
+							
+							<div class="con_input"><sapn class="hint">简述：</sapn> </div>
+							<div class="con_input">
+							<div class="clr"></div>
+							<div class="textinput">
+								<div id="editor">
+								</div>
+							</div><div class="clr"></div>
+							</div><div class="clr"></div>
+							<div class="con_input"><input id='submit' type="submit" value="提交"></div>
+						</div>
+					</div>
+				</div>	
+			</div>		
+			<div class="hottpc">
+					<div id="h_t_ti">热门课程话题</div>
+					<ul id="h_t_cont">
+						<li  class="h_t_con_ex"><span class="h_t_con_ex_num_c">1</span><a class="h_t_con_ex_tit" href="">说为何啵啵猝死家中 </a><span class="h_t_con_ex_heat">999</span></li>
+						<li  class="h_t_con_ex"><span class="h_t_con_ex_num_c">2</span><a class="h_t_con_ex_tit" href="">天宇为何无故。</a><span class="h_t_con_ex_heat">99</span></li>
+						<li  class="h_t_con_ex"><span class="h_t_con_ex_num_c">3</span><a class="h_t_con_ex_tit" href="">biaoti </a><span class="h_t_con_ex_heat">80</span></li>
+						<li  class="h_t_con_ex"><span class="h_t_con_ex_num">4</span><a class="h_t_con_ex_tit" href="">biaoti </a><span class="h_t_con_ex_heat">70</span></li>
+						<li  class="h_t_con_ex"><span class="h_t_con_ex_num">5</span><a class="h_t_con_ex_tit" href="">biaoti </a><span class="h_t_con_ex_heat">60</span></li>
+						<li  class="h_t_con_ex"><span class="h_t_con_ex_num">6</span><a class="h_t_con_ex_tit" href="">biaoti </a><span class="h_t_con_ex_heat">50</span></li>
+						<li  class="h_t_con_ex"><span class="h_t_con_ex_num">7</span><a class="h_t_con_ex_tit" href="">biaoti </a><span class="h_t_con_ex_heat">40</span></li>
+						<li  class="h_t_con_ex"><span class="h_t_con_ex_num">8</span><a class="h_t_con_ex_tit" href="">biaoti </a><span class="h_t_con_ex_heat">30</span></li>
+						<li  class="h_t_con_ex"><span class="h_t_con_ex_num">9</span><a class="h_t_con_ex_tit" href="">biaoti </a><span class="h_t_con_ex_heat">25</span></li>
+
+						
+					</ul>
+			</div>	
+			<div class="clr"></div>
+		</div>
+			
+	</div>
+	<div class="clr"></div>
+	</div>
+	<div id="Cfooter">
+		<include file="./Application/Home/View/Index/public/footer.html" />
+	</div>
+    <script type="text/javascript" src="__PUBLIC__/Js/wangEditor.min.js"></script>
+    <script type="text/javascript">
+        var E = window.wangEditor;
+        var editor = new E( document.getElementById('editor') );
+        editor.create();
+    </script>
+</body>
+</html>

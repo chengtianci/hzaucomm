@@ -1,0 +1,18 @@
+.summary .con {
+	display: block;
+	width: 100%;
+	margin-top: 20px;
+	padding: 15px 35px 10px 35px;
+	font-size: 15px;
+	margin-top: 25px;
+	font-family: sans-serif;
+	line-height: 35px;
+	color: #333;
+}
+.summary .con span {
+	font-weight: bold;
+	display: inline-block;
+	width: 60px;
+	color: rgb(15,148,26);
+	margin-right: 5px;
+}

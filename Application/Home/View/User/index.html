@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+ 	<meta name="viewport" content="width=device-width,user-scalable=yes" />
+ 	<title>实验教学中心互动平台</title>
+	<link rel="stylesheet" href="__PUBLIC__/face/css/public.css"/>
+	<link rel="stylesheet" href="__PUBLIC__/face/css/intro_index.css"/>
+ 
+</head>
+<body>
+	<div id="Cheader">
+		<include file="./Application/Home/View/Index/Public/header.html" />
+	</div>
+
+	<div id="Cnav">
+		<include file="./Application/Home/View/Index/Public/nav.html" />
+	</div>
+
+	<div id="Cmain">
+		<div class="Ccontainer">
+			<div id="main_nav">
+			<section>
+				<h3>个人中心</h3>
+				<ul class="ultop">
+					<li><a href="__APP__/Home/User/index">基本信息</a></li>
+					<li><a href="__APP__/Home/User/application">我的申请</a></li>
+					<li><a href="__APP__/Home/User/message">我的消息</a></li>
+				</ul>
+			</section>
+			</div>
+			<div class="rightc">
+				<div class="usercon">
+					<div class="mini_nav">
+						<span class="mini_title">基本信息</span>
+					</div>
+					<div class="con">
+							<form>
+								<li class="eachimg"><span>头像：</span> </li><img src=""><input class="fileinput" type="file" name="img"><div class="clr"></div>				
+								<div class="each"><span>账号： </span><input type="text" name="username"></div>				
+								<div class="each"><span>用户名：</span><input type="text" name="name"></div>				
+								<div class="each"><span>年级专业：</span><input type="text" name="grade"></div>				
+								<div class="each"><span>邮箱：</span><input type="text" name="mail"></div>				
+								<div class="each"><span>手机：</span><input type="text" name="phone"> <input class="submit" type="submit" name="" value="修改"></div>
+							</form>				
+							<div class="eachbut"><button id="pwreset">密码修改</button></div>
+							<div class="eachbut"><button id="pwgetback">密码找回</button></div>				
+					</div>
+				</div>
+				<div class="clr"></div>
+				
+			</div>
+
+		</div>
+		<div class="clr"></div>
+	</div>
+	<div class="clr"></div>
+	<div id="Cfooter">
+		<include file="./Application/Home/View/Index/Public/footer.html" />
+	</div>
+	<div id="getback"><img id="close1" src="__PUBLIC__/face/images/icon/close.png">
+		<h1>找回密码</h1> 
+		<form id="backform">
+			<div class="conin"><span class="hint">新密码：</span><input type="text" name="newpassword"></div><div class="clr"></div>
+			<div class="conin"><span class="hint">确认密码：</span><input type="text" name="repassword"></div><div class="clr"></div>
+			<div class="conin"><span class="hint">邮箱验证：</span><input type="text" name="phone"><a href="">邮箱获取验证码</a></div><div class="clr"></div>
+			<div class="conin"><span class="hint">验证码：</span><input  type="text" name="repassword"></div><div class="clr"></div>
+			<div class="conin"><input id="submit" type="submit" name="submit" value="确认"></div><div class="clr"></div>
+		</form>
+	</div>
+	<div id="reset"><img id="close2" src="__PUBLIC__/face/images/icon/close.png">
+		<h1>修改密码</h1> 
+		<form id="setform">
+			<div class="conin"><span class="hint">原始密码：</span><input type="text" name="expasswortd"></div><div class="clr"></div>
+			<div class="conin"><span class="hint">新密码：</span><input type="text" name="newpassword"></div><div class="clr"></div>
+			<div class="conin"><span class="hint">确认密码：</span><input type="text" name="repassword"></div><div class="clr"></div>
+			<div class="conin"><span class="hint">验证码：</span><input  type="text" name="repassword"></div><div class="clr"></div>
+			<div class="conin"><span class="verify"></span><img class="verifyimg" src="" alt=""><a href="">看不清换一张</a></div><div class="clr"></div>
+			<div class="conin"><input id="submit" type="submit" name="submit" value="确认"></div><div class="clr"></div>
+		</form>
+	</div>
+	<script type="text/javascript" src="__PUBLIC__/face/Js/intro_index.js"></script>
+</body>
+</html>

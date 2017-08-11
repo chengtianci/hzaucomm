@@ -1,0 +1,61 @@
+[ 2017-03-05T21:44:37+08:00 ] ::1 /hzaucomm/index.php/home/Communication/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001354s ]
+ERR: 无法加载控制器:Communication
+
+[ 2017-03-05T21:44:46+08:00 ] ::1 /hzaucomm/index.php/home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000744s ]
+
+[ 2017-03-05T21:47:52+08:00 ] ::1 /hzaucomm/index.php/home/Index/comp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+
+[ 2017-03-05T21:50:36+08:00 ] ::1 /hzaucomm/index.php/home/Index/comp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000609s ]
+
+[ 2017-03-05T21:51:35+08:00 ] ::1 /hzaucomm/index.php/home/Index/comp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+
+[ 2017-03-05T21:52:11+08:00 ] ::1 /hzaucomm/index.php/home/Index/comp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+
+[ 2017-03-05T21:52:11+08:00 ] ::1 /hzaucomm/index.php/home/Index/comp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+
+[ 2017-03-05T21:52:33+08:00 ] ::1 /hzaucomm/index.php/home/Index/comp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+
+[ 2017-03-05T21:52:33+08:00 ] ::1 /hzaucomm/index.php/home/Index/comp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+
+[ 2017-03-05T21:52:51+08:00 ] ::1 /hzaucomm/index.php/home/Index/comp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+
+[ 2017-03-05T21:52:51+08:00 ] ::1 /hzaucomm/index.php/home/Index/comp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+
+[ 2017-03-05T21:52:51+08:00 ] ::1 /hzaucomm/index.php/home/Index/comp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+
